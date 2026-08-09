@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-xb4mbl.nuansa138win.space/sitemap.xml
